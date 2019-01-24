@@ -5,12 +5,7 @@
 > Android Table View
 ## Table of Contents
 1. [Quick Start](#quick-start)
-1. [Documentation](#documentation)
 1. [Examples](#examples)
-1. [Questions](#report)
-1. [Donate](#donate)
-1. [Social Media](#social)
-1. [More Examples](#more-examples)
 1. [License](#licence)
 1. [Creators](#creators)
 
@@ -25,11 +20,12 @@ dependencies {
     implementation 'com.eymel.datatable:FlashTableView:1.0.1'
 }
 ```
-<br/>
+
 
 <h2 id="examples">Examples :eyes:</h2>
 ```java
- ArrayList<Column> headers = new ArrayList<>();
+
+    ArrayList<Column> headers = new ArrayList<>();
     FlashTableView tableView;
 
     @Override
@@ -107,10 +103,9 @@ dependencies {
 
 ```
 
+<h2 id="license">License</h2>
 
-<br/>
-License
---------
+
 
 
     Copyright 2019 Eyüp Yıldırım.
