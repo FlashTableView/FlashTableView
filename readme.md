@@ -6,8 +6,7 @@
 ## Table of Contents
 1. [Quick Start](#quick-start)
 1. [Examples](#examples)
-1. [License](#licence)
-1. [Creators](#creators)
+1. [License](#license)
 
 
 <h2 id="quick-start">Quick Start </h2>
@@ -20,9 +19,10 @@ dependencies {
     implementation 'com.eymel.datatable:FlashTableView:1.0.1'
 }
 ```
-
+</br>
 
 <h2 id="examples">Examples :eyes:</h2>
+
 ```java
 
     ArrayList<Column> headers = new ArrayList<>();
@@ -103,6 +103,7 @@ dependencies {
 
 ```
 
+</br>
 <h2 id="license">License</h2>
 
 
