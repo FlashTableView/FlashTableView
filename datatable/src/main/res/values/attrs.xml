@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FlashTableView">
+
+        <attr name="headerBackgroundRes" format="reference" />
+        <attr name="rowBackgroundRes" format="reference" />
+        <attr name="mainBackgroundRes" format="reference" />
+        <attr name="selectedRowBackgroundRes" format="reference" />
+        <attr name="headerColumnTextColor" format="color" />
+    </declare-styleable>
+</resources>
